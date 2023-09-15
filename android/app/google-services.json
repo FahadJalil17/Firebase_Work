@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826137545031",
+    "project_id": "fir-allwork",
+    "storage_bucket": "fir-allwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826137545031:android:967e3b5d652a6b0e592462",
+        "android_client_info": {
+          "package_name": "com.example.firebase_all"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826137545031-6ro7p27so5tduf4j23vunv7hoqpnf0mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPwltFbSW6knPQbTh5RMijvxAPbSSQ1g4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826137545031-6ro7p27so5tduf4j23vunv7hoqpnf0mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
